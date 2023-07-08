@@ -1,0 +1,14 @@
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text-primary{
+    color: orange;
+}
+
+
+nav {
+  
+    display: flex;
+} 
